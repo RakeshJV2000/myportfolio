@@ -14,7 +14,7 @@ In addition to that, I'm interested in sports and I exercise regularly. I love r
 - **Frameworks**: Spring Boot, ReactJS. Nodejs, Flask, Junit, Tensorflow, Pytorch, NumPy, Pandas, Seaborn.
 - **Tools**: PostgreSQL, Jupyter Notebook, MongoDB, PyCharm, Tableau, Power Bi, MS Excel, Git, Eclipse IDE.
 
-## Projects
+## Data Science & ML Projects
 ### BCG Data Science Job Simulation | _Python, Pandas, NumPy, Matplotlib, Scikit Learn_
 - Completed a **customer churn analysis** for a company with over 14,000 clients, demonstrating advanced data analytics
 skills, identifying essential client data, and outlining a strategic investigation approach.
@@ -23,9 +23,27 @@ like **Matplotlib** for insightful trend interpretation over 50 features.
 - Developed a **predictive model** that obtained an overall 90% accuracy rate in predicting customer churn.
 - Delivered a concise **executive summary**, and provided actionable insights for informed decision-making.
 
+### Music Metadata Analysis | _Python, Tensorflow, Transformers, Encoders, ETL, VAE_
+- Leveraged **Transformers** and **Autoencoders** in Python to analyze the impact of artists and lyrics on song popularity.
+- Developed an **ETL** pipeline using **web scraping** techniques to extract lyrical data for over 20,000 songs and generate artist
+indicator scores based on Twitter and YouTube engagement analysis.
+- Designed a **hybrid model** with advanced features which achieved a 12% improvement in prediction accuracy.
 
+### Medical Imaging Analysis with Deep Learning | _Tensorflow, CNNs, OpenCV_
+- Developed an **ensemble** of neural networks capable of categorizing X-ray images according to the degree of osteoarthritis and
+providing a probability of progressing to the next stage.
+- Constructed a network of CNNs: **EfficientNet, DenseNet, InceptionV3, and Mobilenet**, to categorize images
+- Attained an accuracy of 99% with the ensemble model and each model achieved an accuracy of around 94%.
+- Implemented **Mask R-CNN** for **image segmentation** to precisely isolate injury regions in X-rays for calculation of inter-
+bone distance, and obtained an IOU score of 84% in image segmentation.
+- Created **ground truth** masks for over 1000 X-ray images for segmentation purposes.
 
-
-
+### Statistical Hypothesis Test | _R_
+- Conducted robust **hypothesis testing** on automobile attributes (150 data points) addressing both **MNAR** and **MCAR** missing
+value mechanisms using appropriate techniques.
+- Analyzed the relationship between horsepower and vehicle prices using **Pearson's correlation** coefficient.
+- Built a **multivariable logistic regression** model to assess the influence of car dimensions (length, width, height, and
+wheelbase) on the number of doors.
+- Interpreted **p-values, confidence intervals**, and rejection regions at **significance levels(α)** of 0.05 and 0.1 to conclude the hypothesis.
 
 
