@@ -13,3 +13,19 @@ In addition to that, I'm interested in sports and I exercise regularly. I love r
 - **Programming**: Java, C++, C, Python, R, SQL, JavaScript, Typescript.
 - **Frameworks**: Spring Boot, ReactJS. Nodejs, Flask, Junit, Tensorflow, Pytorch, NumPy, Pandas, Seaborn.
 - **Tools**: PostgreSQL, Jupyter Notebook, MongoDB, PyCharm, Tableau, Power Bi, MS Excel, Git, Eclipse IDE.
+
+## Projects
+# BCG Data Science Job Simulation | _Python, Pandas, NumPy, Matplotlib, Scikit Learn_
+- Completed a **customer churn analysis** for a company with over 14,000 clients, demonstrating advanced data analytics
+skills, identifying essential client data, and outlining a strategic investigation approach.
+- Conducted efficient data analysis using Python, including **Pandas** and **Scikit-Learn**, and employed data visualization tools
+like **Matplotlib** for insightful trend interpretation over 50 features.
+- Developed a **predictive model** that obtained an overall 90% accuracy rate in predicting customer churn.
+- Delivered a concise **executive summary**, and provided actionable insights for informed decision-making.
+
+
+
+
+
+
+
