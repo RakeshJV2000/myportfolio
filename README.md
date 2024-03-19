@@ -58,6 +58,11 @@ In addition to that, I'm interested in sports and I exercise regularly. I love r
 - [HPE Software Engineering Job Simulations](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Hewlett%20Packard%20Enterprise%20/da2T3WZCbMAJD7bNB_Hewlett%20Packard%20Enterprise_L8252k4gv8Dz5jM9w_1709064447503_completion_certificate.pdf)
 - [JP Morgan Software Engineering Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_L8252k4gv8Dz5jM9w_1708037762008_completion_certificate.pdf)
 
+## Contact
+- [Email](mailto:rakesh.jeyachandranvinotha@stonybrook.edu)
+- [Linkedin](https://www.linkedin.com/in/rakesh-jeyachandran-vinotha-01b3ab251/)
+- Mobile: 626-550-6195
+
 
 
 
