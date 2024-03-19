@@ -44,7 +44,7 @@ In addition to that, I'm interested in sports and I exercise regularly. I love r
 - Implemented functionalities to manage employee data within the organization’s web application, including handling **JSON** data through the API.
 - Wrote and executed a set of unit tests using **JUnit** to assess the web application’s performance.
 
-### J.P. Morgan Software Engineering Job Simulation| _React, Typescript, Git_
+### J.P. Morgan Software Engineering Job Simulation | _React, Typescript, Git_
 - Set up a dashboard using **React** that helps traders to better identify under/overvalued stocks.
 - Debugged script files in the **Git** repository to make the web app output a live graph that displays a data feed for traders.
 - Used JPMorgan Chase’s open-source library called **Perspective** to generate a live graph that displays a data feed in a clear and visually appealing way.
