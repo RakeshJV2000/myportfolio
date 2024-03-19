@@ -15,7 +15,7 @@ In addition to that, I'm interested in sports and I exercise regularly. I love r
 - **Tools**: PostgreSQL, Jupyter Notebook, MongoDB, PyCharm, Tableau, Power Bi, MS Excel, Git, Eclipse IDE.
 
 ## Projects
-# BCG Data Science Job Simulation | _Python, Pandas, NumPy, Matplotlib, Scikit Learn_
+### BCG Data Science Job Simulation | _Python, Pandas, NumPy, Matplotlib, Scikit Learn_
 - Completed a **customer churn analysis** for a company with over 14,000 clients, demonstrating advanced data analytics
 skills, identifying essential client data, and outlining a strategic investigation approach.
 - Conducted efficient data analysis using Python, including **Pandas** and **Scikit-Learn**, and employed data visualization tools
