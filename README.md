@@ -49,6 +49,24 @@ In addition to that, I'm interested in sports and I exercise regularly. I love r
 - Debugged script files in the **Git** repository to make the web app output a live graph that displays a data feed for traders.
 - Used JPMorgan Chase’s open-source library called **Perspective** to generate a live graph that displays a data feed in a clear and visually appealing way.
 
+### Analysis of Historical House Sales | _Tableau_
+- Created a comprehensive dashboard for the analysis of residential property sales, spanning from 1900 to 2015.
+- Implemented various filters to assess property values based on factors such as the construction year, and dimensions, and plotted graphs to analyze the correlation between house price and factors location, square footage, etc.
+
+## Certifications
+- [BCG Data Science Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_L8252k4gv8Dz5jM9w_1707714810496_completion_certificate.pdf)
+- [HPE Software Engineering Job Simulations](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Hewlett%20Packard%20Enterprise%20/da2T3WZCbMAJD7bNB_Hewlett%20Packard%20Enterprise_L8252k4gv8Dz5jM9w_1709064447503_completion_certificate.pdf)
+- [JP Morgan Software Engineering Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_L8252k4gv8Dz5jM9w_1708037762008_completion_certificate.pdf)
+
+
+
+
+
+
+
+
+
+
 
 
 
