@@ -14,36 +14,41 @@ In addition to that, I'm interested in sports and I exercise regularly. I love r
 - **Frameworks**: Spring Boot, ReactJS. Nodejs, Flask, Junit, Tensorflow, Pytorch, NumPy, Pandas, Seaborn.
 - **Tools**: PostgreSQL, Jupyter Notebook, MongoDB, PyCharm, Tableau, Power Bi, MS Excel, Git, Eclipse IDE.
 
-## Data Science & ML Projects
+## Projects
 ### BCG Data Science Job Simulation | _Python, Pandas, NumPy, Matplotlib, Scikit Learn_
-- Completed a **customer churn analysis** for a company with over 14,000 clients, demonstrating advanced data analytics
-skills, identifying essential client data, and outlining a strategic investigation approach.
-- Conducted efficient data analysis using Python, including **Pandas** and **Scikit-Learn**, and employed data visualization tools
-like **Matplotlib** for insightful trend interpretation over 50 features.
+- Completed a **customer churn analysis** for a company with over 14,000 clients, demonstrating advanced data analytics skills, identifying essential client data, and outlining a strategic investigation approach.
+- Conducted efficient data analysis using Python, including **Pandas** and **Scikit-Learn**, and employed data visualization tools like **Matplotlib** for insightful trend interpretation over 50 features.
 - Developed a **predictive model** that obtained an overall 90% accuracy rate in predicting customer churn.
 - Delivered a concise **executive summary**, and provided actionable insights for informed decision-making.
 
 ### Music Metadata Analysis | _Python, Tensorflow, Transformers, Encoders, ETL, VAE_
 - Leveraged **Transformers** and **Autoencoders** in Python to analyze the impact of artists and lyrics on song popularity.
-- Developed an **ETL** pipeline using **web scraping** techniques to extract lyrical data for over 20,000 songs and generate artist
-indicator scores based on Twitter and YouTube engagement analysis.
+- Developed an **ETL** pipeline using **web scraping** techniques to extract lyrical data for over 20,000 songs and generate artist indicator scores based on Twitter and YouTube engagement analysis.
 - Designed a **hybrid model** with advanced features which achieved a 12% improvement in prediction accuracy.
 
 ### Medical Imaging Analysis with Deep Learning | _Tensorflow, CNNs, OpenCV_
-- Developed an **ensemble** of neural networks capable of categorizing X-ray images according to the degree of osteoarthritis and
-providing a probability of progressing to the next stage.
+- Developed an **ensemble** of neural networks capable of categorizing X-ray images according to the degree of osteoarthritis and providing a probability of progressing to the next stage.
 - Constructed a network of CNNs: **EfficientNet, DenseNet, InceptionV3, and Mobilenet**, to categorize images
 - Attained an accuracy of 99% with the ensemble model and each model achieved an accuracy of around 94%.
-- Implemented **Mask R-CNN** for **image segmentation** to precisely isolate injury regions in X-rays for calculation of inter-
-bone distance, and obtained an IOU score of 84% in image segmentation.
+- Implemented **Mask R-CNN** for **image segmentation** to precisely isolate injury regions in X-rays for calculation of inter-bone distance, and obtained an IOU score of 84% in image segmentation.
 - Created **ground truth** masks for over 1000 X-ray images for segmentation purposes.
 
 ### Statistical Hypothesis Test | _R_
-- Conducted robust **hypothesis testing** on automobile attributes (150 data points) addressing both **MNAR** and **MCAR** missing
-value mechanisms using appropriate techniques.
+- Conducted robust **hypothesis testing** on automobile attributes (150 data points) addressing both **MNAR** and **MCAR** missing value mechanisms using appropriate techniques.
 - Analyzed the relationship between horsepower and vehicle prices using **Pearson's correlation** coefficient.
-- Built a **multivariable logistic regression** model to assess the influence of car dimensions (length, width, height, and
-wheelbase) on the number of doors.
+- Built a **multivariable logistic regression** model to assess the influence of car dimensions (length, width, height, and wheelbase) on the number of doors.
 - Interpreted **p-values, confidence intervals**, and rejection regions at **significance levels(α)** of 0.05 and 0.1 to conclude the hypothesis.
+
+### Hewlett Packard Enterprise Software Engineering Job Simulation | _Java, Spring Boot, REST APIs, Junit_
+- Designed and developed a **RESTful API** using Java **Spring Boot** for efficient data exchange.
+- Implemented functionalities to manage employee data within the organization’s web application, including handling **JSON** data through the API.
+- Wrote and executed a set of unit tests using **JUnit** to assess the web application’s performance.
+
+### J.P. Morgan Software Engineering Job Simulation| _React, Typescript, Git_
+- Set up a dashboard using **React** that helps traders to better identify under/overvalued stocks.
+- Debugged script files in the **Git** repository to make the web app output a live graph that displays a data feed for traders.
+- Used JPMorgan Chase’s open-source library called **Perspective** to generate a live graph that displays a data feed in a clear and visually appealing way.
+
+
 
 
