@@ -8,3 +8,8 @@ In addition to that, I'm interested in sports and I exercise regularly. I love r
 ## Education
 - Stony Brook University | Master's in Data Science | Aug 2023 - May 2025(Expected) | New York, USA
 - SSN College of Engineering | Bachelor's in Computer Science | Aug 2019 - May 2023 | Chennai, India
+
+## Skills
+- **Programming**: Java, C++, C, Python, R, SQL, JavaScript, Typescript.
+- **Frameworks**: Spring Boot, ReactJS. Nodejs, Flask, Junit, Tensorflow, Pytorch, NumPy, Pandas, Seaborn.
+- **Tools**: PostgreSQL, Jupyter Notebook, MongoDB, PyCharm, Tableau, Power Bi, MS Excel, Git, Eclipse IDE.
