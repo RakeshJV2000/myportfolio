@@ -1,4 +1,4 @@
-# Journey in Tech
+# Rakesh Jeyachandran Vinotha
 
 I'm a data science candidate with a Master's degree in progress and a strong foundation in computer science. My expertise lies in areas of 
 Machine Learning to build and deploy predictive models, Data Analysis to extract insights and infer conclusions, and Software Development to design and develop applications. Currently, I'm pursuing my Master's in [Stony Brook University](https://www.cs.stonybrook.edu/admissions/Graduate-Admissions-Data-Science#2) and I obtained my Bachelor's in Computer Science from [SSN College of Engineering](https://www.ssn.edu.in/college-of-engineering/computer-science-and-engineering-department-ssn-institutions/).
