@@ -22,7 +22,7 @@ In addition to that, I'm interested in sports and I exercise regularly. I love r
 - Delivered a concise **executive summary**, and provided actionable insights for informed decision-making.
 
 ### News Summary Using GPT3.5-Turbo | _LLM, OpenAI API, Flask, Prompt Design_
-- Integrated OpenAI's **ChatGPT3.5 Turbo API** to intelligently summarize news articles, optimizing content consumption and providing concise insights.
+- Integrated OpenAI's **ChatGPT-3.5 Turbo API** to intelligently summarize news articles, optimizing content consumption and providing concise insights.
 - Leveraged **News API** to dynamically access top news articles' URLs and images, and implemented web scraping using **beautiful soup** to extract relevant news content.
 - Employed **Flask** to create RESTful APIs, enabling efficient data transmission and manipulation between the server and user interface.
 
