@@ -21,6 +21,11 @@ In addition to that, I'm interested in sports and I exercise regularly. I love r
 - Developed a **predictive model** that obtained an overall 90% accuracy rate in predicting customer churn.
 - Delivered a concise **executive summary**, and provided actionable insights for informed decision-making.
 
+### News Summary Using GPT3.5-Turbo | _LLM, OpenAI API, Flask, Prompt Design_
+- Integrated OpenAI's **ChatGPT3.5 Turbo API** to intelligently summarize news articles, optimizing content consumption and providing concise insights.
+- Leveraged **News API** to dynamically access top news articles' URLs and images, and implemented web scraping using **beautiful soup** to extract relevant news content.
+- Employed **Flask** to create RESTful APIs, enabling efficient data transmission and manipulation between the server and user interface.
+
 ### Music Metadata Analysis | _Python, Tensorflow, Transformers, Encoders, ETL, VAE_
 - Leveraged **Transformers** and **Autoencoders** in Python to analyze the impact of artists and lyrics on song popularity.
 - Developed an **ETL** pipeline using **web scraping** techniques to extract lyrical data for over 20,000 songs and generate artist indicator scores based on Twitter and YouTube engagement analysis.
