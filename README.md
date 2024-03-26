@@ -10,9 +10,7 @@ In addition to that, I'm interested in sports and I exercise regularly. I love r
 - SSN College of Engineering | Bachelor's in Computer Science | Aug 2019 - May 2023 | Chennai, India
 
 ## Work Experience
-**S M Associates Risk Management pvt ltd** - _Data Analyst Intern_
-
-Chennai, India - Jan 2023 to Mar 2023
+**S M Associates Risk Management pvt ltd** | _Data Analyst Intern_ | Jan 2023 - Mar 2023
 - Compiled weekly and daily Excel MIS reports, utilizing VLOOKUP formulas for data retrieval, and streamlining report formatting, which increased data reporting efficiency by 20%.
 - Utilized data analysis techniques to identify bottlenecks and communicated findings and recommendations to management, translating complex data into actionable insights for business optimization
 
