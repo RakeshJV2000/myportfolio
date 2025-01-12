@@ -10,9 +10,17 @@ In addition to that, I'm interested in sports and I exercise regularly. I love r
 - SSN College of Engineering | Bachelor's in Computer Science | Aug 2019 - May 2023 | Chennai, India
 
 ## Work Experience
-**S M Associates Risk Management pvt ltd** | _Data Analyst Intern_ | Jan 2023 - Mar 2023
-- Compiled weekly and daily Excel MIS reports, utilizing VLOOKUP formulas for data retrieval, and streamlining report formatting, which increased data reporting efficiency by 20%.
-- Utilized data analysis techniques to identify bottlenecks and communicated findings and recommendations to management, translating complex data into actionable insights for business optimization
+**Stony Brook University** | _Research Assistant - Data Scientist_ | May 2024 - Dec 2024
+- Performed data analysis on the COVID dataset via N3C enclave to identify the association with Kidney Injury.
+- Applied SQL(CTE) and CASE statements in conjunction with PySpark and R to refine data and reveal causal relationships.
+- Utilized statistical methods to balance covariates between treatment and control groups, minimizing selection bias.
+
+**Sri Sivasubramaniya Nadar College of Engineering** | _Research Assistant - Medical Image Analysis with Deep Learning_ | Nov 2022 - May 2023
+- • Engineered an ensemble neural network capable of categorizing X-ray images according to the degree of osteoarthritis and
+providing a probability of progressing to the next stage.
+- Attained an accuracy of 99% with ethe nsemble model and each model achieved an accuracy of around 94%.
+- Implemented Mask R-CNN to segment injury regions to calculate the inter-bone distance and obtained an IOU score of 84%.
+- Created ground truth masks for over 1000 X-ray images for segmentation purposes.
 
 ## Skills
 - **Programming**: Java, C++, C, Python, R, SQL, JavaScript, Typescript.
