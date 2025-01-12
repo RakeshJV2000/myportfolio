@@ -34,6 +34,12 @@ providing a probability of progressing to the next stage.
 - Developed a **predictive model** that obtained an overall 90% accuracy rate in predicting customer churn.
 - Delivered a concise **executive summary**, and provided actionable insights for informed decision-making.
 
+### Neural-Networks for POS Tagging | _Pytorch, Neural Network_
+- Developed and trained a **feed-forward neural network (FFNN)** model using Pytorch for part-of-speech tagging on English tweets
+- Analyzed random vs pre-trained embeddings - **pre-trained embeddings** achieved a significant accuracy boost from **77.6% to 82.3%**
+- Experimented with feature engineering - capitalization, suffixes, and special characters - improved accuracy from **80.77% to 83.08%**
+- Explored architectures - **hidden layers(0, 1,2), sizes (128, 256, 512), and activation functions (tanh, ReLU, sigmoid)**, to optimize
+
 ### News Summary Using GPT3.5-Turbo | _LLM, OpenAI API, Flask, Prompt Design, PosrgreSQL_
 - Integrated OpenAI's **ChatGPT-3.5 Turbo API** to intelligently summarize news articles, optimizing content consumption and providing concise insights.
 - Leveraged **News API** to dynamically access top news articles' URLs and images, and implemented web scraping using **beautiful soup** to extract relevant news content.
@@ -43,13 +49,6 @@ providing a probability of progressing to the next stage.
 - Leveraged **Transformers** and **Autoencoders** in Python to analyze the impact of artists and lyrics on song popularity.
 - Developed an **ETL** pipeline using **web scraping** techniques to extract lyrical data for over 20,000 songs and generate artist indicator scores based on Twitter and YouTube engagement analysis.
 - Designed a **hybrid model** with advanced features which achieved a 12% improvement in prediction accuracy.
-
-### Medical Imaging Analysis with Deep Learning | _Tensorflow, CNNs, OpenCV_
-- Developed an **ensemble** of neural networks capable of categorizing X-ray images according to the degree of osteoarthritis and providing a probability of progressing to the next stage.
-- Constructed a network of CNNs: **EfficientNet, DenseNet, InceptionV3, and Mobilenet**, to categorize images
-- Attained an accuracy of 99% with the ensemble model and each model achieved an accuracy of around 94%.
-- Implemented **Mask R-CNN** for **image segmentation** to precisely isolate injury regions in X-rays for calculation of inter-bone distance, and obtained an IOU score of 84% in image segmentation.
-- Created **ground truth** masks for over 1000 X-ray images for segmentation purposes.
 
 ### Statistical Hypothesis Test | _R_
 - Conducted robust **hypothesis testing** on automobile attributes (150 data points) addressing both **MNAR** and **MCAR** missing value mechanisms using appropriate techniques.
